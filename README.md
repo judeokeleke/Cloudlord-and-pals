@@ -1,5 +1,9 @@
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # Student Profile Dashboard
-Open-source stands for being transparent, sharing, and contributing to others’ projects to improve them or to modify them for your own. In any case, the essence of open-source is a large community of contributors.Please help us make this a massive project by contributing. You can also read through this file to learn how to make your contribution count. 
+Open-source stands for being transparent, sharing, and contributing to others’ projects to improve them or to modify them for your own. In any case, the essence of open-source is a large community of contributors. Please help us make this a massive project by contributing. You can also read through this file to learn how to make your contribution count. 
 
 
 GRACIAS
@@ -34,7 +38,7 @@ You don’t have to become a lifelong contributor to enjoy participating in open
 
 - Click the green Clone button and then copy the HTTPS URL
 
-- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+- Using Git on your local machine, clone your fork using the URL you just copied i.e git clone THE URL YOU FORKED INTO YOUR ACCOUNT
 
 -  Navigate to your local repository i.e cd Cloudlord-and-pals
 
@@ -75,13 +79,13 @@ Below are the listed features implemented
 -->
 > **Uploading of profile** 
 
-> **Search functionaly =>**. i.e you can search with one of the followings studentid, name and circle number
+> **Search functionally =>**. i.e you can search with one of the followings: Student ID, name and circle number
 
-> **Button for different tracks =>**  When a particular track button is clicked, it display all the student in that track.
+> **Button for different tracks =>**  When a particular track button is clicked, it displays all the students in that track.
 
-> **Read More On a Student =>** Clicking the readmore on student card auromatically gives full information about a student which leads to the next feature 
+> **Read More On a Student =>** Clicking the readmore button on a student's card automatically gives full information about them which then leads to the next feature 
 
->**Student Dashboard =>** On the student dashboard, you can click on different tabs that direct to a section where some certain information can be found 
+>**Student's Dashboard =>** On the student's dashboard, you can click on different tabs that direct to a section where certain information can be found 
 ---
 
 <br>
@@ -97,7 +101,7 @@ Below are the upcoming features
 
 > **Display an error page when a student is not found**.
 
-> **Dispaly a welcome alert box when a user is about to open a dashboard** 
+> **Display a welcome alert box when a user is about to open a dashboard** 
 
 > **And More...**
 ---
@@ -105,7 +109,7 @@ Below are the upcoming features
 <b>
 <b>
 
-## Please note this is an opensource project,incase you think of any feature please feel free to share
+## Please note this is an opensource project, incase you think of any feature, please feel free to share.
 
 <br>
 <br>
